@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pet-heaven/static/css/main.0b3e1523.css",
-    "main.js": "/pet-heaven/static/js/main.ae8bc7b3.js",
+    "main.js": "/pet-heaven/static/js/main.40a00300.js",
     "static/js/787.bc7d429a.chunk.js": "/pet-heaven/static/js/787.bc7d429a.chunk.js",
     "static/media/corgi.jpg": "/pet-heaven/static/media/corgi.34fd2873a9cdad060936.jpg",
     "static/media/wc2.jpg": "/pet-heaven/static/media/wc2.f5c3c32b8c10b952fc18.jpg",
@@ -47,11 +47,11 @@
     "index.html": "/pet-heaven/index.html",
     "static/media/location.svg": "/pet-heaven/static/media/location.c9e9731334b59e8e58e67ef74320321c.svg",
     "main.0b3e1523.css.map": "/pet-heaven/static/css/main.0b3e1523.css.map",
-    "main.ae8bc7b3.js.map": "/pet-heaven/static/js/main.ae8bc7b3.js.map",
+    "main.40a00300.js.map": "/pet-heaven/static/js/main.40a00300.js.map",
     "787.bc7d429a.chunk.js.map": "/pet-heaven/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3e1523.css",
-    "static/js/main.ae8bc7b3.js"
+    "static/js/main.40a00300.js"
   ]
 }
